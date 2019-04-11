@@ -1,0 +1,16 @@
+{
+	"type":"repository",
+	"version":"master",
+	"category":"Service Cloud",
+	"name":"Case",
+	"image":"https://drive.google.com/open?id=1GLruvYwJGdaskPeoNNXgN4KLGxCi6bO9",
+	"description":"Get the Following Boosters: Increase the Number resolved cases",
+	
+	"dependencies":[
+		{
+			"type":"linkRepository",
+			"version":"master",
+			"name":"FieloIncentiveAutomation/fielodeploy"
+		}
+	]
+}
